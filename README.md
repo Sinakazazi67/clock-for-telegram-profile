@@ -1,5 +1,5 @@
 # Clock for Telegram profile ⏰
-##### [Turdıbek Jumabaev](https://github.com/turdibekjumabaev/)
+
 ## Used:
   + Python
   + Telethon
@@ -9,3 +9,6 @@
   + Install [Python](https://python.org/)
   + `pip install telethon`
   + `pip install pillow`
+## Developers
+  + [Turdıbek Jumabaev](https://github.com/turdibekjumabaev/)
+  + [Abbos Abusattorov](http://github.com/aabb0ss)
