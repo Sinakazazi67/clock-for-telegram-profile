@@ -11,4 +11,3 @@
   + `pip install pillow`
 ## Developers
   + [Turdıbek Jumabaev](https://github.com/turdibekjumabaev/)
-  + [Abbos Abusattorov](http://github.com/aabb0ss)
