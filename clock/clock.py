@@ -9,7 +9,7 @@ from telethon.tl.functions.photos import UploadProfilePhotoRequest, DeletePhotos
 from PIL import Image, ImageDraw, ImageFont
 import time
 client = TelegramClient(session='SESSION_NAME',
-                        api_id="<your_api_id>", api_hash="<your_api_hash")
+                        api_id="7694839", api_hash="ca08d317fc969e40064226fa2b94510e")
 client.start()
 time1 = ''
 time2 = ''
